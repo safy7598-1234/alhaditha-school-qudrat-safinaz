@@ -1,0 +1,14 @@
+{
+  "adminPin": "2200564603",
+  "sessions": {
+    "08f04636511961019ecd7f946633267503f1d4d1beac891ea8baeacb93641f35": {
+      "expiresAt": 1793606328998,
+      "createdAt": "2026-11-01T07:58:48.998Z"
+    },
+    "220d60c1f3aa438319e25bfba6fa2ac441665d6b2deb6bc3b1241a842a7eeec3": {
+      "expiresAt": 1793606390854,
+      "createdAt": "2026-11-01T07:59:50.854Z"
+    }
+  },
+  "lockouts": {}
+}
